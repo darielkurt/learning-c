@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello World!!!\n");
-    printf("Nilagyan ko lang to para may ma-commit ako sa github dahil yung "
-           "tutorial na sinusundan ko ay nag-eexplain ng puro under the hood\n");
-    printf("Which is FUN\n");
+    int x = 100;
+    int y = 500 / x;
+    printf("The magic number is: %i\nThe Value of x is %i\n", y, x);
     return 123;
 }
