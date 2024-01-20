@@ -10,3 +10,9 @@ int main() {
     printf("The area of a circle with %i radius is %f\n", radius, area);
     return 0;
 }
+// this is a comment
+// hello another comment
+
+/* this is a multiline
+ comment */
+//adf asfons onkadnok
